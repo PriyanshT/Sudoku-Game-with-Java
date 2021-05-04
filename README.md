@@ -15,14 +15,10 @@
 
 ## Screenshots : 
 ### All
-<img src="screenshots/sudoku1.png" width="auto" height="auto"> <img src="screenshots/sudoku2.png" width="48%" height="auto">
+<img src="screenshots/sudoku1.png" width="auto" height="auto">
+<img src="screenshots/sudoku2.png" width="auto" height="auto">
 <img src="screenshots/sudoku3.png" width="auto" height="auto">
-
-<img src="screenshots/allmovies1.jpg" width="48%" height="auto"> <img src="screenshots/allmovies2.jpg" width="48%" height="auto">
-<img src="screenshots/allmovies3.jpg" width="48%" height="auto">
-
-<img src="screenshots/mymovies1.jpg" width="48%" height="auto">
-
-<img src="screenshots/register.jpg" width="48%" height="auto">
-
-<img src="screenshots/login.jpg" width="48%" height="auto">
+<img src="screenshots/sudoku4.png" width="auto" height="auto">
+<img src="screenshots/sudoku5.png" width="auto" height="auto">
+<img src="screenshots/sudoku6.png" width="auto" height="auto">
+<img src="screenshots/sudoku7.png" width="auto" height="auto">
