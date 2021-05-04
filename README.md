@@ -14,7 +14,7 @@
 - Java - Core
 
 ## Word Doc:
-<iframe src="Final Project - Sudoku.docx" />
+Click <a href="Final Project - Sudoku.docx" target="_blank">here</a> for word document.
 
 ## Screenshots : 
 ### All
