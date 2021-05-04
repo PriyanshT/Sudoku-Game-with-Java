@@ -15,6 +15,7 @@
 
 ## Word Doc:
 Click <a href="Final Project - Sudoku.docx" target="_blank">here</a> for word document.
+- Note: It will be downloaded!
 
 ## Screenshots : 
 ### All
