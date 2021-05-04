@@ -13,6 +13,9 @@
 ## Technologies used:<br>
 - Java - Core
 
+## Word Doc:
+<iframe src="Final Project - Sudoku.docx" />
+
 ## Screenshots : 
 ### All
 <img src="screenshots/sudoku1.png" width="auto" height="auto">
