@@ -15,8 +15,8 @@
 
 ## Screenshots : 
 ### All
-<img src="screenshots/home1.jpg" width="48%" height="auto"> <img src="screenshots/home2.jpg" width="48%" height="auto">
-<img src="screenshots/home3.jpg" width="48%" height="auto">
+<img src="screenshots/sudoku1.png" width="auto" height="auto"> <img src="screenshots/sudoku2.png" width="48%" height="auto">
+<img src="screenshots/sudoku3.png" width="auto" height="auto">
 
 <img src="screenshots/allmovies1.jpg" width="48%" height="auto"> <img src="screenshots/allmovies2.jpg" width="48%" height="auto">
 <img src="screenshots/allmovies3.jpg" width="48%" height="auto">
